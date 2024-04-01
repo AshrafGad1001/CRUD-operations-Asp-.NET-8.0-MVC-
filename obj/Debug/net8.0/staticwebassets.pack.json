@@ -1,0 +1,433 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\Courses\\Training WebDev (BackEnd)\\1 (CRUD Operation DotNET 8.0)\\GameZone\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\GameZone.bundle.scp.css",
+      "PackagePath": "staticwebassets\\GameZone.bundle.scp.css"
+    },
+    {
+      "Id": "F:\\Courses\\Training WebDev (BackEnd)\\1 (CRUD Operation DotNET 8.0)\\GameZone\\wwwroot\\assets\\images\\games\\18c8d2e0-94cf-4221-98ad-c3f7b246556c.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\games\\18c8d2e0-94cf-4221-98ad-c3f7b246556c.jpg"
+    },
+    {
+      "Id": "F:\\Courses\\Training WebDev (BackEnd)\\1 (CRUD Operation DotNET 8.0)\\GameZone\\wwwroot\\assets\\images\\games\\21c1fc6d-3e07-4ca0-92fe-587ba122f021.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\games\\21c1fc6d-3e07-4ca0-92fe-587ba122f021.jpg"
+    },
+    {
+      "Id": "F:\\Courses\\Training WebDev (BackEnd)\\1 (CRUD Operation DotNET 8.0)\\GameZone\\wwwroot\\assets\\images\\games\\21d06142-30b4-49ef-9eaf-9d5446086be3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\games\\21d06142-30b4-49ef-9eaf-9d5446086be3.jpg"
+    },
+    {
+      "Id": "F:\\Courses\\Training WebDev (BackEnd)\\1 (CRUD Operation DotNET 8.0)\\GameZone\\wwwroot\\assets\\images\\games\\27bf3d59-cd16-4f18-b294-3243cbd097dd.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\games\\27bf3d59-cd16-4f18-b294-3243cbd097dd.jpg"
+    },
+    {
+      "Id": "F:\\Courses\\Training WebDev (BackEnd)\\1 (CRUD Operation DotNET 8.0)\\GameZone\\wwwroot\\assets\\images\\games\\32a89692-836d-46c5-a607-8837561696a7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\games\\32a89692-836d-46c5-a607-8837561696a7.jpg"
+    },
+    {
+      "Id": "F:\\Courses\\Training WebDev (BackEnd)\\1 (CRUD Operation DotNET 8.0)\\GameZone\\wwwroot\\assets\\images\\games\\38f5ad77-1c53-4186-9ed1-6f51d4b1b803.png",
+      "PackagePath": "staticwebassets\\assets\\images\\games\\38f5ad77-1c53-4186-9ed1-6f51d4b1b803.png"
+    },
+    {
+      "Id": "F:\\Courses\\Training WebDev (BackEnd)\\1 (CRUD Operation DotNET 8.0)\\GameZone\\wwwroot\\assets\\images\\games\\39600a6d-1bfa-4137-8b83-c6389bc1b2cb.png",
+      "PackagePath": "staticwebassets\\assets\\images\\games\\39600a6d-1bfa-4137-8b83-c6389bc1b2cb.png"
+    },
+    {
+      "Id": "F:\\Courses\\Training WebDev (BackEnd)\\1 (CRUD Operation DotNET 8.0)\\GameZone\\wwwroot\\assets\\images\\games\\3d9d16f2-99fa-4fa2-b056-3c3da8d93955.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\games\\3d9d16f2-99fa-4fa2-b056-3c3da8d93955.jpg"
+    },
+    {
+      "Id": "F:\\Courses\\Training WebDev (BackEnd)\\1 (CRUD Operation DotNET 8.0)\\GameZone\\wwwroot\\assets\\images\\games\\466d2ca6-d592-4923-a7de-be318f303cec.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\games\\466d2ca6-d592-4923-a7de-be318f303cec.jpg"
+    },
+    {
+      "Id": "F:\\Courses\\Training WebDev (BackEnd)\\1 (CRUD Operation DotNET 8.0)\\GameZone\\wwwroot\\assets\\images\\games\\47845df5-8e15-4599-a67f-552caf26ab41.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\games\\47845df5-8e15-4599-a67f-552caf26ab41.jpg"
+    },
+    {
+      "Id": "F:\\Courses\\Training WebDev (BackEnd)\\1 (CRUD Operation DotNET 8.0)\\GameZone\\wwwroot\\assets\\images\\games\\486c9c4c-4d2d-4d3e-bfdd-d19ca5e35e82.png",
+      "PackagePath": "staticwebassets\\assets\\images\\games\\486c9c4c-4d2d-4d3e-bfdd-d19ca5e35e82.png"
+    },
+    {
+      "Id": "F:\\Courses\\Training WebDev (BackEnd)\\1 (CRUD Operation DotNET 8.0)\\GameZone\\wwwroot\\assets\\images\\games\\524b86d9-19f2-4611-ac3b-e042f607fd65.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\games\\524b86d9-19f2-4611-ac3b-e042f607fd65.jpg"
+    },
+    {
+      "Id": "F:\\Courses\\Training WebDev (BackEnd)\\1 (CRUD Operation DotNET 8.0)\\GameZone\\wwwroot\\assets\\images\\games\\5d1ae7f3-f233-47a1-aeb2-ed122ca289d6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\games\\5d1ae7f3-f233-47a1-aeb2-ed122ca289d6.jpg"
+    },
+    {
+      "Id": "F:\\Courses\\Training WebDev (BackEnd)\\1 (CRUD Operation DotNET 8.0)\\GameZone\\wwwroot\\assets\\images\\games\\62fd3deb-c943-4b15-ab4e-d773b779b763.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\games\\62fd3deb-c943-4b15-ab4e-d773b779b763.jpg"
+    },
+    {
+      "Id": "F:\\Courses\\Training WebDev (BackEnd)\\1 (CRUD Operation DotNET 8.0)\\GameZone\\wwwroot\\assets\\images\\games\\743d11d7-39c9-428e-b3d0-702defe8c6dc.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\games\\743d11d7-39c9-428e-b3d0-702defe8c6dc.jpg"
+    },
+    {
+      "Id": "F:\\Courses\\Training WebDev (BackEnd)\\1 (CRUD Operation DotNET 8.0)\\GameZone\\wwwroot\\assets\\images\\games\\794f1010-fd86-4870-b3cd-2da00835927c.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\games\\794f1010-fd86-4870-b3cd-2da00835927c.jpg"
+    },
+    {
+      "Id": "F:\\Courses\\Training WebDev (BackEnd)\\1 (CRUD Operation DotNET 8.0)\\GameZone\\wwwroot\\assets\\images\\games\\8486f1cb-94f0-4098-889f-d2302bf0d551.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\games\\8486f1cb-94f0-4098-889f-d2302bf0d551.jpg"
+    },
+    {
+      "Id": "F:\\Courses\\Training WebDev (BackEnd)\\1 (CRUD Operation DotNET 8.0)\\GameZone\\wwwroot\\assets\\images\\games\\91e199c0-374e-4117-a849-062a29ba6e2a.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\games\\91e199c0-374e-4117-a849-062a29ba6e2a.jpg"
+    },
+    {
+      "Id": "F:\\Courses\\Training WebDev (BackEnd)\\1 (CRUD Operation DotNET 8.0)\\GameZone\\wwwroot\\assets\\images\\games\\94bda426-5b35-4e80-ada9-2e0888e82427.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\games\\94bda426-5b35-4e80-ada9-2e0888e82427.jpg"
+    },
+    {
+      "Id": "F:\\Courses\\Training WebDev (BackEnd)\\1 (CRUD Operation DotNET 8.0)\\GameZone\\wwwroot\\assets\\images\\games\\a740f682-e7e7-4ee4-91dc-a39b32621863.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\games\\a740f682-e7e7-4ee4-91dc-a39b32621863.jpg"
+    },
+    {
+      "Id": "F:\\Courses\\Training WebDev (BackEnd)\\1 (CRUD Operation DotNET 8.0)\\GameZone\\wwwroot\\assets\\images\\games\\ba4d5bdc-91ac-4b43-a115-a79195825f4e.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\games\\ba4d5bdc-91ac-4b43-a115-a79195825f4e.jpg"
+    },
+    {
+      "Id": "F:\\Courses\\Training WebDev (BackEnd)\\1 (CRUD Operation DotNET 8.0)\\GameZone\\wwwroot\\assets\\images\\games\\c2b4dc65-4fa8-4372-b1eb-ffc1fecdea03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\games\\c2b4dc65-4fa8-4372-b1eb-ffc1fecdea03.jpg"
+    },
+    {
+      "Id": "F:\\Courses\\Training WebDev (BackEnd)\\1 (CRUD Operation DotNET 8.0)\\GameZone\\wwwroot\\assets\\images\\games\\cd11daaf-1a17-489d-966e-21e08f42f83b.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\games\\cd11daaf-1a17-489d-966e-21e08f42f83b.jpg"
+    },
+    {
+      "Id": "F:\\Courses\\Training WebDev (BackEnd)\\1 (CRUD Operation DotNET 8.0)\\GameZone\\wwwroot\\assets\\images\\games\\ea88beb2-d416-40e8-be2b-a09a38b814c9.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\games\\ea88beb2-d416-40e8-be2b-a09a38b814c9.jpg"
+    },
+    {
+      "Id": "F:\\Courses\\Training WebDev (BackEnd)\\1 (CRUD Operation DotNET 8.0)\\GameZone\\wwwroot\\assets\\images\\games\\ed0b0cbc-10b1-4ab4-9997-f3e02fc4a449.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\games\\ed0b0cbc-10b1-4ab4-9997-f3e02fc4a449.jpg"
+    },
+    {
+      "Id": "F:\\Courses\\Training WebDev (BackEnd)\\1 (CRUD Operation DotNET 8.0)\\GameZone\\wwwroot\\assets\\images\\games\\f0edf202-e4a3-421b-9463-4c979ff71663.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\games\\f0edf202-e4a3-421b-9463-4c979ff71663.jpg"
+    },
+    {
+      "Id": "F:\\Courses\\Training WebDev (BackEnd)\\1 (CRUD Operation DotNET 8.0)\\GameZone\\wwwroot\\assets\\images\\games\\f3e41324-cb34-4b89-ae00-927b6fcb2749.png",
+      "PackagePath": "staticwebassets\\assets\\images\\games\\f3e41324-cb34-4b89-ae00-927b6fcb2749.png"
+    },
+    {
+      "Id": "F:\\Courses\\Training WebDev (BackEnd)\\1 (CRUD Operation DotNET 8.0)\\GameZone\\wwwroot\\assets\\images\\games\\fa0b5b50-8675-4434-8519-7ee52e62e464.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\games\\fa0b5b50-8675-4434-8519-7ee52e62e464.jpg"
+    },
+    {
+      "Id": "F:\\Courses\\Training WebDev (BackEnd)\\1 (CRUD Operation DotNET 8.0)\\GameZone\\wwwroot\\assets\\images\\games\\fbabbd02-3b33-4443-b363-ee7bc6cf9ca2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\games\\fbabbd02-3b33-4443-b363-ee7bc6cf9ca2.jpg"
+    },
+    {
+      "Id": "F:\\Courses\\Training WebDev (BackEnd)\\1 (CRUD Operation DotNET 8.0)\\GameZone\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "F:\\Courses\\Training WebDev (BackEnd)\\1 (CRUD Operation DotNET 8.0)\\GameZone\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "F:\\Courses\\Training WebDev (BackEnd)\\1 (CRUD Operation DotNET 8.0)\\GameZone\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "F:\\Courses\\Training WebDev (BackEnd)\\1 (CRUD Operation DotNET 8.0)\\GameZone\\wwwroot\\js\\filesize-validator.js",
+      "PackagePath": "staticwebassets\\js\\filesize-validator.js"
+    },
+    {
+      "Id": "F:\\Courses\\Training WebDev (BackEnd)\\1 (CRUD Operation DotNET 8.0)\\GameZone\\wwwroot\\js\\game-form.js",
+      "PackagePath": "staticwebassets\\js\\game-form.js"
+    },
+    {
+      "Id": "F:\\Courses\\Training WebDev (BackEnd)\\1 (CRUD Operation DotNET 8.0)\\GameZone\\wwwroot\\js\\games-index.js",
+      "PackagePath": "staticwebassets\\js\\games-index.js"
+    },
+    {
+      "Id": "F:\\Courses\\Training WebDev (BackEnd)\\1 (CRUD Operation DotNET 8.0)\\GameZone\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "F:\\Courses\\Training WebDev (BackEnd)\\1 (CRUD Operation DotNET 8.0)\\GameZone\\wwwroot\\lib\\bootstrap-icons\\font\\bootstrap-icons.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-icons\\font\\bootstrap-icons.css"
+    },
+    {
+      "Id": "F:\\Courses\\Training WebDev (BackEnd)\\1 (CRUD Operation DotNET 8.0)\\GameZone\\wwwroot\\lib\\bootstrap-icons\\font\\bootstrap-icons.json",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-icons\\font\\bootstrap-icons.json"
+    },
+    {
+      "Id": "F:\\Courses\\Training WebDev (BackEnd)\\1 (CRUD Operation DotNET 8.0)\\GameZone\\wwwroot\\lib\\bootstrap-icons\\font\\bootstrap-icons.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-icons\\font\\bootstrap-icons.min.css"
+    },
+    {
+      "Id": "F:\\Courses\\Training WebDev (BackEnd)\\1 (CRUD Operation DotNET 8.0)\\GameZone\\wwwroot\\lib\\bootstrap-icons\\font\\fonts\\bootstrap-icons.woff",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-icons\\font\\fonts\\bootstrap-icons.woff"
+    },
+    {
+      "Id": "F:\\Courses\\Training WebDev (BackEnd)\\1 (CRUD Operation DotNET 8.0)\\GameZone\\wwwroot\\lib\\bootstrap-icons\\font\\fonts\\bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-icons\\font\\fonts\\bootstrap-icons.woff2"
+    },
+    {
+      "Id": "F:\\Courses\\Training WebDev (BackEnd)\\1 (CRUD Operation DotNET 8.0)\\GameZone\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "F:\\Courses\\Training WebDev (BackEnd)\\1 (CRUD Operation DotNET 8.0)\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "F:\\Courses\\Training WebDev (BackEnd)\\1 (CRUD Operation DotNET 8.0)\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "F:\\Courses\\Training WebDev (BackEnd)\\1 (CRUD Operation DotNET 8.0)\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "F:\\Courses\\Training WebDev (BackEnd)\\1 (CRUD Operation DotNET 8.0)\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "F:\\Courses\\Training WebDev (BackEnd)\\1 (CRUD Operation DotNET 8.0)\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "F:\\Courses\\Training WebDev (BackEnd)\\1 (CRUD Operation DotNET 8.0)\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "F:\\Courses\\Training WebDev (BackEnd)\\1 (CRUD Operation DotNET 8.0)\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "F:\\Courses\\Training WebDev (BackEnd)\\1 (CRUD Operation DotNET 8.0)\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\Courses\\Training WebDev (BackEnd)\\1 (CRUD Operation DotNET 8.0)\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "F:\\Courses\\Training WebDev (BackEnd)\\1 (CRUD Operation DotNET 8.0)\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "F:\\Courses\\Training WebDev (BackEnd)\\1 (CRUD Operation DotNET 8.0)\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "F:\\Courses\\Training WebDev (BackEnd)\\1 (CRUD Operation DotNET 8.0)\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "F:\\Courses\\Training WebDev (BackEnd)\\1 (CRUD Operation DotNET 8.0)\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "F:\\Courses\\Training WebDev (BackEnd)\\1 (CRUD Operation DotNET 8.0)\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "F:\\Courses\\Training WebDev (BackEnd)\\1 (CRUD Operation DotNET 8.0)\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "F:\\Courses\\Training WebDev (BackEnd)\\1 (CRUD Operation DotNET 8.0)\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\Courses\\Training WebDev (BackEnd)\\1 (CRUD Operation DotNET 8.0)\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "F:\\Courses\\Training WebDev (BackEnd)\\1 (CRUD Operation DotNET 8.0)\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "F:\\Courses\\Training WebDev (BackEnd)\\1 (CRUD Operation DotNET 8.0)\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "F:\\Courses\\Training WebDev (BackEnd)\\1 (CRUD Operation DotNET 8.0)\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "F:\\Courses\\Training WebDev (BackEnd)\\1 (CRUD Operation DotNET 8.0)\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "F:\\Courses\\Training WebDev (BackEnd)\\1 (CRUD Operation DotNET 8.0)\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "F:\\Courses\\Training WebDev (BackEnd)\\1 (CRUD Operation DotNET 8.0)\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "F:\\Courses\\Training WebDev (BackEnd)\\1 (CRUD Operation DotNET 8.0)\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\Courses\\Training WebDev (BackEnd)\\1 (CRUD Operation DotNET 8.0)\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "F:\\Courses\\Training WebDev (BackEnd)\\1 (CRUD Operation DotNET 8.0)\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "F:\\Courses\\Training WebDev (BackEnd)\\1 (CRUD Operation DotNET 8.0)\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "F:\\Courses\\Training WebDev (BackEnd)\\1 (CRUD Operation DotNET 8.0)\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "F:\\Courses\\Training WebDev (BackEnd)\\1 (CRUD Operation DotNET 8.0)\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "F:\\Courses\\Training WebDev (BackEnd)\\1 (CRUD Operation DotNET 8.0)\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "F:\\Courses\\Training WebDev (BackEnd)\\1 (CRUD Operation DotNET 8.0)\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "F:\\Courses\\Training WebDev (BackEnd)\\1 (CRUD Operation DotNET 8.0)\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\Courses\\Training WebDev (BackEnd)\\1 (CRUD Operation DotNET 8.0)\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "F:\\Courses\\Training WebDev (BackEnd)\\1 (CRUD Operation DotNET 8.0)\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "F:\\Courses\\Training WebDev (BackEnd)\\1 (CRUD Operation DotNET 8.0)\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "F:\\Courses\\Training WebDev (BackEnd)\\1 (CRUD Operation DotNET 8.0)\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "F:\\Courses\\Training WebDev (BackEnd)\\1 (CRUD Operation DotNET 8.0)\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "F:\\Courses\\Training WebDev (BackEnd)\\1 (CRUD Operation DotNET 8.0)\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "F:\\Courses\\Training WebDev (BackEnd)\\1 (CRUD Operation DotNET 8.0)\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "F:\\Courses\\Training WebDev (BackEnd)\\1 (CRUD Operation DotNET 8.0)\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "F:\\Courses\\Training WebDev (BackEnd)\\1 (CRUD Operation DotNET 8.0)\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "F:\\Courses\\Training WebDev (BackEnd)\\1 (CRUD Operation DotNET 8.0)\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "F:\\Courses\\Training WebDev (BackEnd)\\1 (CRUD Operation DotNET 8.0)\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "F:\\Courses\\Training WebDev (BackEnd)\\1 (CRUD Operation DotNET 8.0)\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "F:\\Courses\\Training WebDev (BackEnd)\\1 (CRUD Operation DotNET 8.0)\\GameZone\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\Courses\\Training WebDev (BackEnd)\\1 (CRUD Operation DotNET 8.0)\\GameZone\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "F:\\Courses\\Training WebDev (BackEnd)\\1 (CRUD Operation DotNET 8.0)\\GameZone\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "F:\\Courses\\Training WebDev (BackEnd)\\1 (CRUD Operation DotNET 8.0)\\GameZone\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "F:\\Courses\\Training WebDev (BackEnd)\\1 (CRUD Operation DotNET 8.0)\\GameZone\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "F:\\Courses\\Training WebDev (BackEnd)\\1 (CRUD Operation DotNET 8.0)\\GameZone\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "F:\\Courses\\Training WebDev (BackEnd)\\1 (CRUD Operation DotNET 8.0)\\GameZone\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "F:\\Courses\\Training WebDev (BackEnd)\\1 (CRUD Operation DotNET 8.0)\\GameZone\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "F:\\Courses\\Training WebDev (BackEnd)\\1 (CRUD Operation DotNET 8.0)\\GameZone\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\Courses\\Training WebDev (BackEnd)\\1 (CRUD Operation DotNET 8.0)\\GameZone\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "F:\\Courses\\Training WebDev (BackEnd)\\1 (CRUD Operation DotNET 8.0)\\GameZone\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "F:\\Courses\\Training WebDev (BackEnd)\\1 (CRUD Operation DotNET 8.0)\\GameZone\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "F:\\Courses\\Training WebDev (BackEnd)\\1 (CRUD Operation DotNET 8.0)\\GameZone\\wwwroot\\lib\\select2\\css\\select2.min.css",
+      "PackagePath": "staticwebassets\\lib\\select2\\css\\select2.min.css"
+    },
+    {
+      "Id": "F:\\Courses\\Training WebDev (BackEnd)\\1 (CRUD Operation DotNET 8.0)\\GameZone\\wwwroot\\lib\\select2\\js\\select2.min.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\select2.min.js"
+    },
+    {
+      "Id": "F:\\Courses\\Training WebDev (BackEnd)\\1 (CRUD Operation DotNET 8.0)\\GameZone\\wwwroot\\lib\\sweetalert2\\sweetalert2.min.css",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\sweetalert2.min.css"
+    },
+    {
+      "Id": "F:\\Courses\\Training WebDev (BackEnd)\\1 (CRUD Operation DotNET 8.0)\\GameZone\\wwwroot\\lib\\sweetalert2\\sweetalert2.min.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\sweetalert2.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.GameZone.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.GameZone.props",
+      "PackagePath": "build\\GameZone.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.GameZone.props",
+      "PackagePath": "buildMultiTargeting\\GameZone.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.GameZone.props",
+      "PackagePath": "buildTransitive\\GameZone.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
